@@ -11,6 +11,7 @@
     </section>
   </options>
   <patch id="DPC" root="/DPC" />
+      <folder disc="/StageData" external="/DPC/StageData" create="true" />
 	<memory offset="0x803B23B8" value="4BC4FF94" />
 	<memory offset="0x8000234C" value="3f2080913b397be63b397be63b0000003f4080f63b5a3cf0a2fa00007f83b800409c0008931900003b200000b07f000460000000483b003c" />
   </patch>
