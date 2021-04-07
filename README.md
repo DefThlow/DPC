@@ -1,2 +1,2 @@
 # DPC
-A Riivolution mod for SMG1's Purple Coins.
+A riivolution mod for SMG1's Purple Coins.
